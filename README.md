@@ -6,9 +6,6 @@ Hey👋🏻, I'm a full-stack Developer with a degree in Computer Science and En
   <li>⛰️ Hodophile</li>
 </ul>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="400"/>
-</div>
 
 ## 🚀 Skills :
 <div id="badges">
