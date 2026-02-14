@@ -2,8 +2,6 @@ Hey👋🏻, I'm a full-stack Developer with a degree in Computer Science and En
 
 <ul>
   <li>🎯 Currently focusing on Python backend(Fast API, Flask)</li>
-  <li>🏫 Mentored college students</li>
-  <li>⛰️ Hodophile</li>
 </ul>
 
 
