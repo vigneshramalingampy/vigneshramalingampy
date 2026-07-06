@@ -1,7 +1,7 @@
 Hey👋🏻, I'm a full-stack Developer with a degree in Computer Science and Engineering based in India. Expertise in developing mobile applications with Python and Flutter. I love building mobile applications using Flutter and Python. I do love to play Volleyball.
 
 <ul>
-  <li>🎯 Currently focusing on Python backend(Fast API, Flask)</li>
+  <li>🎯 Currently focusing on building scalable software across the backend and frontend, integrating AI to create intelligent and efficient applications.</li>
 </ul>
 
 
