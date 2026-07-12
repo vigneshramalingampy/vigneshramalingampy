@@ -25,57 +25,17 @@ Currently focused on:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
----
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
----
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
----
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
-
----
-
-### AI
-
-- OpenAI
-- LangChain
-- LangGraph
-- RAG
-- Prompt Engineering
-- Document Extraction
-- OCR Pipelines
-
----
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+| Preprocessor & Markup | Programming Languages |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| Frameworks & Libraries | AI/ML & Testing |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Litestar](https://img.shields.io/badge/Litestar-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| Hosting | Design |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| Tools & Platforms | Version Control |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Codecov](https://img.shields.io/badge/Codecov-F01F26?style=flat-square&logo=codecov&logoColor=white) |
 
 ---
 
@@ -86,7 +46,6 @@ Currently focused on:
 AI-powered document ingestion and extraction platform.
 
 Features:
-
 - PDF Parsing
 - DOCX Parsing
 - Markdown Conversion
@@ -123,12 +82,13 @@ A complete web application for managing furniture products.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshramalingampy&show_icons=true&theme=tokyonight)
+<p align="center">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshramalingampy&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="32%" />
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshramalingampy&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="32%" />
+</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigneshramalingampy)](https://github.com/anuraghazra/github-readme-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshramalingampy&theme=github&hide_border=true)
 
-
-[![Vignesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=vigneshramalingampy)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 📫 Connect With Me
