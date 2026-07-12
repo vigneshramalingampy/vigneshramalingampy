@@ -1,70 +1,149 @@
-Hey👋🏻, I'm a full-stack Developer with a degree in Computer Science and Engineering based in India. Expertise in developing mobile applications with Python and Flutter. I love building mobile applications using Flutter and Python. I do love to play Volleyball.
+# Hi there 👋 I'm Vignesh Ramalingam
 
-<ul>
-  <li>🎯 Currently focusing on building scalable software across the backend and frontend, integrating AI to create intelligent and efficient applications.</li>
-</ul>
+## Backend Engineer • AI Engineer • Open Source Enthusiast
 
+I build scalable backend systems, AI-powered applications, and developer tools using **Python**.
 
-## 🚀 Skills :
-<div id="badges">
-  <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge"/>
-  </a>
-  
-  <a>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask Badge"/>
-  </a>
-   <a>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart Badge"/>
-  </a>
-  
-  <a>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
-  </a>
- 
-  <a>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase Badge"/>
-  </a>
-</div>
+Currently focused on:
+- 🤖 AI Agents & LLM Applications
+- 📄 Intelligent Document Processing
+- ⚡ FastAPI & Async Python
+- 🌐 Next.js Full Stack Applications
+- ☁️ Cloud-native Deployments
+- 🐳 Docker & CI/CD
 
-## 🛠️ Tools :
-<div id="badges">
-  <a>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visualstudiocode&logoColor=white" alt="VS code Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
-  </a>
-  
-  <a>
-    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white" alt="android studio Badge"/>
-  </a>
-   <a>
-    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator Badge"/>
-  </a>
- 
-</div>
+---
 
-## 🛠️ Tools :
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vigneshramalingampy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="https://github.com/vigneshramalingampy">
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
-  </a>
-</div>
+## 🚀 About Me
 
-<!---
-vigneshveera2208/vigneshveera2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 Software Developer with **5+ years** of experience
+- 🐍 Python Backend Engineer
+- ⚙️ Designing scalable APIs and backend architectures
+- 🤖 Building AI-powered document extraction pipelines
+- 📚 Passionate about distributed systems and software architecture
+- 🌱 Always learning something new in AI and backend engineering
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+---
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+
+---
+
+### AI
+
+- OpenAI
+- LangChain
+- LangGraph
+- RAG
+- Prompt Engineering
+- Document Extraction
+- OCR Pipelines
+
+---
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📌 Current Projects
+
+### 🧠 Org Atlas
+
+AI-powered document ingestion and extraction platform.
+
+Features:
+
+- PDF Parsing
+- DOCX Parsing
+- Markdown Conversion
+- OCR Pipeline
+- Metadata Extraction
+- Async Processing
+- Extensible Architecture
+
+---
+
+### 🪑 Commercial Furniture Management Platform
+
+A complete web application for managing furniture products.
+
+- Next.js
+- Supabase
+- Admin Dashboard
+- Excel Import
+- Image Upload
+- Responsive UI
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- LangGraph
+- MCP
+- Distributed Systems
+- Kubernetes
+- Event-driven Architectures
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshramalingampy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshramalingampy&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/vigneshramalingampy
+- Email: vignesh.ramalingam.py@gmail.com
+- Portfolio: Coming Soon 🚀
+
+---
+
+## 💭 Philosophy
+
+> "Build software that solves real problems.
+> Keep it simple.
+> Keep it scalable.
+> Keep learning."
+
+---
+
+⭐ If you like my work, consider following my journey and exploring my repositories.
