@@ -125,8 +125,10 @@ A complete web application for managing furniture products.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshramalingampy&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshramalingampy&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigneshramalingampy)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Vignesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=vigneshramalingampy)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 📫 Connect With Me
